@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tran Huu Anh Triet
+- 👋 Hi, I’m Triet Tran
 - 🌱 I’m currently learning Computer Engineering at Ho Chi Minh city University of Technology
 <!--- - 📫 How to reach me --->
 
